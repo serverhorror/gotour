@@ -5,3 +5,7 @@ This is just a copy/paste exercise to go thru the tour again.
 Go here:
 
 * https://go.dev/tour
+
+## Next
+
+* [ ] https://go.dev/tour/flowcontrol/1
